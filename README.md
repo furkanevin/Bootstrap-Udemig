@@ -1,12 +1,6 @@
-| **_Information:mag:_**                                                                                                                                                                                                                                                                                   | **_Tech Stack:computer:_**                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Udemig temalı responsive website bootstrap ın hazır componentlarından faydalanılanılarak yapıldı. <br> Online Preview:https://udemig.netlify.app/ |HTML5 <br> CSS3 <br> BOOTSTRAP|
+<h1> Bootstrap Udemig</h1>
+<p>Bootstrap hazır componentlerinin yardımı ve classlarla oluşturuldu <p>
+<h3>Kullanılan Teknolojiler</h3>
+<p>HTML5 CSS3 BOOTSTRAP</p>
 
-
-<h1>Preview</h1>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/109925130/213586029-ffb423a8-f7d1-4622-b114-8926f091dd8e.gif">
-
-</div>
-
-
+<img src="/images/onizleme.gif">
